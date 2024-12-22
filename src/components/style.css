@@ -19,7 +19,6 @@ body {
   align-items: center; /* Центрируем по горизонтали */
   min-height: 100vh; /* Минимальная высота равна высоте экрана */
   text-align: center; /* Выравнивание текста по центру */
-  background-image: url('C:/Users/User/todo-app3/src/assets\1710395208_oir-mobi-0x3x-p-esteticheskii-fon-1.jpg'); /* Путь к вашему изображению */
   background-size: cover; /* Заполнение всего фона */
   background-position: center; /* Центрирование изображения */
 }
