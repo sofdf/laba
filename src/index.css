@@ -30,7 +30,6 @@ body {
   flex-direction: column;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url('C:\Users\User\todo-app\src\assets\1710395208_oir-mobi-0x3x-p-esteticheskii-fon-1.jpg'); /* Путь к вашему изображению */
   background-size: cover; /* Заполнение всего фона */
   background-position: center; /* Центрирование изображения */
 }
